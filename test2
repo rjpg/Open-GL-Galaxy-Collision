@@ -1,0 +1,7 @@
+35,35           // radius of target's and intruder's disks
+10000,10000     // # of stars in target and intruder
+1.0             // mass fraction of intruder relative to target
+-80,80,20       // initial position of intruder (target=(0,0,0))
+0.1,-0.1,-0.4   // initial velocity of intruder (target=(0,0,0))
+45,30           // orientation of intruder relative to target
+1000            // number of time steps
